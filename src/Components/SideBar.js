@@ -1,10 +1,8 @@
-import React from 'react'
-
-const SideBar = () => {
+import React, {useState} from 'react'
+const SideBar = (isSidebar) => {
   return (
-    <div>
-      
-    </div>
+    <>
+    </>
   )
 }
 
